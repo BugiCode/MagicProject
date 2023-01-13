@@ -1,1 +1,1 @@
-# MagicProject
+# MegacProject
